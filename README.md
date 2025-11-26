@@ -1,2 +1,2 @@
-# deniskikta8889-code.githab.io
+# deniskikta8889.githab.io
 Сайт визитка HTML, CSS
